@@ -1,0 +1,8 @@
+	 Lan Chat Application
+	=======================
+For User 1:
+	name: user1
+	Password: 1234
+For User 2:
+	Name: user2
+	Password: 12345
